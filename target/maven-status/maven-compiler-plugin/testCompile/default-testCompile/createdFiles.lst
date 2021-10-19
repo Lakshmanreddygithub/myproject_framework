@@ -1,0 +1,7 @@
+testscripts\TC03_Fundtransferguru99.class
+testscripts\TC02_LoginLogout.class
+objectrepository_OR\Elements_Homepage.class
+objectrepository_OR\Elements_Fundtransfer.class
+mydomain\myproject\TC02_SeleniumAutomatedTestBatchUsingSeleniumWebDriverJavaTestNGandMaven.class
+reusable_functions\BusinessFunctionsClass.class
+objectrepository_OR\Loginpage_Elements.class

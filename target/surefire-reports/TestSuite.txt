@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.136 s <<< FAILURE! - in TestSuite
+testscripts.TC03_Fundtransferguru99.testcase_fundtransfer  Time elapsed: 4.831 s  <<< FAILURE!
+org.openqa.selenium.UnhandledAlertException: 
+unexpected alert open: {Alert text : Account 12345does not exist!!!}
+  (Session info: chrome=94.0.4606.81): Account 12345does not exist!!!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAKSHMANREDDY', ip: '192.168.0.18', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61660}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b94fc1c2397f0fe00ee965569940ec09
+*** Element info: {Using=link text, value=Log out}
+	at testscripts.TC03_Fundtransferguru99.testcase_fundtransfer(TC03_Fundtransferguru99.java:14)
+
